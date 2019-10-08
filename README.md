@@ -7,5 +7,5 @@ Project Issue Tracker
 2) Complete the project in `routes/api.js` or by creating a handler/controller
 3) You will add any security features to `server.js`
 4) You will create all of the functional tests in `tests/2_functional-tests.js`
-
+5) Note that QA tests will fail on final delete test unless given a new _id to delete
 
